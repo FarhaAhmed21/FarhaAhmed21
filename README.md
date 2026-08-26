@@ -171,25 +171,28 @@ A Flutter application for **sales accounting and financial management**.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhaAhmed21&theme=github_dark" width="95%"/>
 
 </div>
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/FarhaAhmed21">
-  <img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-0D1117?style=for-the-badge&logo=github&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-0D1117?style=flat-square&logo=github&logoColor=54C5F8"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/farha-ahmed-2b8151259/">
-  <img src="https://img.shields.io/badge/LinkedIn-Farha_Ahmed-0D1117?style=for-the-badge&logo=linkedin&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Farha%20Ahmed-0D1117?style=flat-square&logo=linkedin&logoColor=54C5F8"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FarhaAhmed21&style=for-the-badge&color=54C5F8&label=PROFILE+VIEWS"/>
+<sub>
+Flutter Developer • Mobile Applications • Artificial Intelligence
+</sub>
 
-<br/><br/>
+<br/>
 
-<i>Building ideas into real-world mobile experiences.</i> 🚀
+<sub>
+Open to opportunities, collaborations, and interesting projects.
+</sub>
 
 </div>

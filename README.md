@@ -160,8 +160,6 @@ A Flutter application for **sales accounting and financial management**.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarhaAhmed21&theme=github_dark" height="180"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarhaAhmed21&theme=github_dark" height="180"/>
-
 </div>
 
 ---

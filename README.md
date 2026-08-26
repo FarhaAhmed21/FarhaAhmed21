@@ -172,26 +172,24 @@ A Flutter application for **sales accounting and financial management**.
 
 </div>
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/FarhaAhmed21">
-<img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-0D1117?style=for-the-badge&logo=github&logoColor=54C5F8"/>
 </a>
-
-
+&nbsp;
 <a href="https://www.linkedin.com/in/farha-ahmed-2b8151259/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Farha_Ahmed-0D1117?style=for-the-badge&logo=linkedin&logoColor=54C5F8"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=FarhaAhmed21&style=for-the-badge&color=54C5F8&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<i>Building ideas into real-world mobile experiences.</i> 🚀
+
 </div>
-
-<br/>
-
-<div align="center">
-
-<i>Building. Learning. Shipping.</i> 🚀
-
-</div>
-```

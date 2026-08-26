@@ -171,28 +171,26 @@ A Flutter application for **sales accounting and financial management**.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhaAhmed21&theme=github_dark" width="95%"/>
 
 </div>
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/FarhaAhmed21">
-  <img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-0D1117?style=flat-square&logo=github&logoColor=54C5F8"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=54C5F8"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/farha-ahmed-2b8151259/">
-  <img src="https://img.shields.io/badge/LinkedIn-Farha%20Ahmed-0D1117?style=flat-square&logo=linkedin&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Farha%20Ahmed-0D1117?style=for-the-badge&logo=linkedin&logoColor=54C5F8"/>
+</a>
+&nbsp;
+<a href="https://github.com/FarhaAhmed21">
+  <img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-0D1117?style=for-the-badge&logo=github&logoColor=54C5F8"/>
 </a>
 
 <br/><br/>
 
-<sub>
-Flutter Developer • Mobile Applications • Artificial Intelligence
-</sub>
-
-<br/>
-
-<sub>
-Open to opportunities, collaborations, and interesting projects.
-</sub>
+**Flutter Developer · Mobile Applications · AI**
 
 </div>

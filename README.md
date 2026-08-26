@@ -158,9 +158,9 @@ A Flutter application for **sales accounting and financial management**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FarhaAhmed21&show_icons=true&hide_border=true&title_color=54C5F8&icon_color=54C5F8&text_color=9CA3AF&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarhaAhmed21&theme=github_dark" height="180"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarhaAhmed21&layout=compact&hide_border=true&title_color=54C5F8&text_color=9CA3AF&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarhaAhmed21&theme=github_dark" height="180"/>
 
 </div>
 
@@ -170,7 +170,7 @@ A Flutter application for **sales accounting and financial management**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhaAhmed21&bg_color=0D1117&color=9CA3AF&line=54C5F8&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhaAhmed21&theme=github_dark" width="95%"/>
 
 </div>
 

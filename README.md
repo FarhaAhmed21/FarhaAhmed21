@@ -1,5 +1,3 @@
-# Farha Ahmed — GitHub Profile README
-
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">

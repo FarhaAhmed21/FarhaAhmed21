@@ -34,7 +34,7 @@ I enjoy turning ideas into real products — from responsive mobile interfaces a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,kotlin,java,python" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,kotlin,python" />
 
 <br/><br/>
 

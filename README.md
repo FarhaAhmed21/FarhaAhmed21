@@ -158,9 +158,9 @@ A Flutter application for **sales accounting and financial management**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FarhaAhmed21&show_icons=true&hide_border=true&title_color=54C5F8&icon_color=54C5F8&text_color=9CA3AF&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FarhaAhmed21&show_icons=true&hide_border=true&title_color=54C5F8&icon_color=54C5F8&text_color=9CA3AF&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaAhmed21&layout=compact&hide_border=true&title_color=54C5F8&text_color=9CA3AF&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarhaAhmed21&layout=compact&hide_border=true&title_color=54C5F8&text_color=9CA3AF&bg_color=0D1117"/>
 
 </div>
 
@@ -174,8 +174,6 @@ A Flutter application for **sales accounting and financial management**.
 
 </div>
 
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -184,9 +182,8 @@ A Flutter application for **sales accounting and financial management**.
 <img src="https://img.shields.io/badge/GitHub-FarhaAhmed21-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile link -->
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/farha-ahmed-2b8151259/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 

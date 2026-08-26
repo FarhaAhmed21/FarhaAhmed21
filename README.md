@@ -177,7 +177,7 @@ A Flutter application for **sales accounting and financial management**.
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:fzaki6400@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=54C5F8"/>
 </a>
 &nbsp;

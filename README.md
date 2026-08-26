@@ -36,8 +36,6 @@ I enjoy turning ideas into real products — from responsive mobile interfaces a
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,kotlin,python" />
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,mysql" />
 
 </div>
